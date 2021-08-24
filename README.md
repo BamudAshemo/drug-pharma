@@ -1,6 +1,6 @@
-# asset
+# Drug Pharma
 
-A new Flutter project.
+A Project For Easing Search Of Pharmas
 
 ## Getting Started
 
